@@ -162,7 +162,7 @@ Step 16. Assign Permissions :ost-config.php. Disable inheritance->Remove All. Th
 <br />
 
 <p>
-<img src="https://i.imgur.com/1uX4PXN.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OoMJVXZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 17. Setup osTicket in the browser, name the helpdesk and choose default email (from where you will receive emails from customers).
@@ -181,7 +181,8 @@ Step 18. Download and install HeidiSQL. Create a new session using "root/Passwor
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJ04Flr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1uX4PXN.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJ04Flr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 Step 19. In the browser, continue setting up osTicket. MySQL Datebase: osTicket. MySQL Username: root. MySQL Password: Password1. Click install.
@@ -189,7 +190,7 @@ Step 19. In the browser, continue setting up osTicket. MySQL Datebase: osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/OoMJVXZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jhEGZHO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 20. Browse to the help desk login page: "http://localhost/osTicket/scp/login.php"
