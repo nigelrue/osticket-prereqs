@@ -127,7 +127,6 @@ Step 12. Open Internet Informstion Services (IIS) as an admin, register PHP from
 <br />    
 
 <p>
-<img src="https://i.imgur.com/2HKpOgQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/CGztnBy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/wwSy7nL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
