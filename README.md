@@ -191,6 +191,7 @@ Step 19. In the browser, continue setting up osTicket. MySQL Datebase: osTicket.
 
 <p>
 <img src="https://i.imgur.com/jhEGZHO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/twTUOGb.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 20. Browse to the help desk login page: "http://localhost/osTicket/scp/login.php"
