@@ -132,7 +132,7 @@ Step 12. Open Internet Informstion Services (IIS) as an admin, register PHP from
 <img src="https://i.imgur.com/wwSy7nL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 13. Download and install osTicket v1.15.8. Extract and copy "upload" folder to C:\inetpub\wwwroot. Inside of C:\inetpub\wwwroot, rename the folder "upload" to "osTicket".
+Step 13. Download osTicket v1.15.8. Extract and copy "upload" folder to C:\inetpub\wwwroot. Inside of C:\inetpub\wwwroot, rename the folder "upload" to "osTicket".
 </p>
 <br />    
 
