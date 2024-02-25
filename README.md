@@ -200,6 +200,7 @@ Step 20. Browse to the help desk login page: "http://localhost/osTicket/scp/logi
 
 <p>
 <img src="https://i.imgur.com/zMKu7BG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NQczvin.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 21. Clean up the installation files by deleting "C:\inetpub\wwwroot\osTicket\setup". Set the permissions to "Read" only for C:\inetpub\wwwroot\osTicket\include\ost-config.php.
